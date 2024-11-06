@@ -1,12 +1,12 @@
-## 羲和 Xi He
+## 点核 Dian He
 
-羲和是按照《Mastering Graphics Programming with Vulkan》一书（作者：Marco Castorina 和 Gabriel Assone）的思路开发，整合了最先进技术的现代渲染引擎。
+点核是按照《Mastering Graphics Programming with Vulkan》一书（作者：Marco Castorina 和 Gabriel Assone）的思路开发，整合了最先进技术的现代渲染引擎。
 
 Xi He is developed based on the ideas presented in the book *Mastering Graphics Programming with Vulkan* by Marco Castorina and Gabriel Assone. It is a modern rendering engine that integrates cutting-edge techniques.
 
 ## 基础框架 (Foundation Framework)
 
-羲和渲染引擎的基础框架来自于 [KhronosGroup/Vulkan-Samples](https://github.com/KhronosGroup/Vulkan-Samples) 的 framework，只保留了 vulkan-hpp 的部分，基本不使用原始 C 接口，且相关框架都是从头按需构建的。
+点核渲染引擎的基础框架来自于 [KhronosGroup/Vulkan-Samples](https://github.com/KhronosGroup/Vulkan-Samples) 的 framework，只保留了 vulkan-hpp 的部分，基本不使用原始 C 接口，且相关框架都是从头按需构建的。
 
 The foundation framework of the Xihe Rendering Engine is based on the [KhronosGroup/Vulkan-Samples](https://github.com/KhronosGroup/Vulkan-Samples) framework. Only the vulkan-hpp part is retained, avoiding the raw C interface as much as possible. Related frameworks are built from scratch as needed.
 
